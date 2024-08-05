@@ -145,7 +145,7 @@ nav .mobile .links a:hover {
     HEADER
 -------------------*/
 header {
-  background-image: url(../img/halo-infinite-cover-darkmode.jpg);
+  background-image: url(/Img/Head.png);
   background-size: cover;
   background-position: center center;
   height: 100vh;
