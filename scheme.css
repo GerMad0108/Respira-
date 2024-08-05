@@ -50,23 +50,23 @@
   }
 
   h2::before {
-    background-color: #8cd320;
+    background-color: #20afd3;
   }
 
   .green-button {
-    background-color: #8cd320;
+    background-color: #20afd3;
     color: black;
   }
   .green-button:hover {
-    background-color: greenyellow;
+    background-color: #20afd3;
   }
 
   .green-link {
-    color: #8cd320;
+    color: #20afd3;
   }
 
   .green-link::before {
-    background-color: #8cd320;
+    background-color: #20afd3;
   }
 
   h3 {

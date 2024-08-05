@@ -174,7 +174,7 @@ h2::before {
 
   transform: scale(0.4) skewY(-20deg) rotate(20deg);
 
-  background-color: greenyellow;
+  background-color: #20afd3;
 }
 
 #banner {
@@ -198,13 +198,13 @@ h2::before {
   align-items: center;
   font-size: 14px;
   padding: 10px 40px;
-  background-color: greenyellow;
+  background-color: #20afd3;
   color: black;
   font-weight: bolder;
   text-decoration: none;
 }
 .green-button:hover {
-  background-color: rgb(138, 207, 33);
+  background-color: #20afd3;
 }
 
 .green-link {
@@ -215,7 +215,7 @@ h2::before {
   align-items: center;
   font-size: 16px;
   padding: 10px 15px;
-  color: greenyellow;
+  color: #20afd3;
   font-weight: bolder;
   text-decoration: none;
 }
@@ -258,7 +258,7 @@ h3 {
   text-align: center;
   padding: 50px 0;
 
-  background-image: url(/Img/bg-videos.png);
+  background-image: url(/Img/Granada.png);
   background-position: bottom center;
   background-repeat: no-repeat;
   background-size: cover;
